@@ -2,7 +2,7 @@ body {
     font-family: monospace;
     margin: 5rem 2rem;
     line-height: 1.5;
-    font-size: 1.5rem;
+    font-size: 1rem;
     min-height: 100vh;
     background: 
     linear-gradient(rgba(135, 60, 255, 0.4), rgba(135, 60, 255, 0.9) 80%), 
